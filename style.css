@@ -1,0 +1,34 @@
+header {
+    background: url(img/shapka.jpg) no-repeat center bottom;
+    height: 100px;
+}
+.zadanie{
+    font-size: 60px;
+    padding-top: 20px;
+    text-align: center;
+    font-weight: 600;
+}
+.silki{
+    list-style: circle;
+    position: absolute;
+    right: 80px;
+    font-size: 20px;
+    top: 20px;
+    color: black;
+}
+.telo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.podval {
+    width: 100%;
+    padding: 15px;
+    background: url(img/fon.jpg) bottom;
+    color: white;
+    text-align: center;
+}
+.socseti {
+    
+    text-align: center;
+}
